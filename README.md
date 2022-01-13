@@ -1,1 +1,1 @@
-# ChurnClassification-Logistic-Regression
+# Churn: Classification-Logistic-Regression
